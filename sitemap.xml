@@ -2,3 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/index</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/store</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/reviews</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/gallery-All</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/gallery-Interior</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/gallery-Exterior</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/service-Kitchen-Renovation</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/service-Carpentry</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/service-Bathroom-Renovation</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/service-Deck-&-Patio-Installation</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/service-Flooring-Installation</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/service-Basement-Renovation</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://primeauxshandymanservices.com/service-Garage-Door-Repair-&-Installation</loc>
+        <lastmod>2022-04-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
